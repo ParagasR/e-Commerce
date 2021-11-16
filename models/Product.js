@@ -48,7 +48,7 @@ Product.init(
         //table that it will reference (same name as the model when that table is initialized)
         model: 'category',
         //the column that it is referencing
-        key: 'id'
+        key: 'id',
       }
     }
   },

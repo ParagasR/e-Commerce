@@ -20,7 +20,7 @@ Tag.init(
     },
     //define tag_name
     tag_name: {
-      type: DataTypes.STRING
+      type: DataTypes.STRING,
     }
 
   },
