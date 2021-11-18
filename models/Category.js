@@ -18,10 +18,8 @@ Category.init(
     },
     //define category_name
     category_name: {
-
       type: DataTypes.STRING,
       allowNull: false,
-
     }
   },
   {
